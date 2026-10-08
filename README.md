@@ -13,6 +13,7 @@ Big idea: AI agents are becoming our users, our buyers and our workforce.
 ## Links
 
 - Opening video, Kitze on the state of AI (starts at 22:09): https://www.youtube.com/live/CGq9KRSb9Kc?t=1329
+- All talk links, slides and livestreams: [assets from Conference](assets%20from%20Conference/links.md)
 - Write-up (Substack): https://jintojose.substack.com
 - This repo: https://github.com/jintomjose/AI-Engineer-Paris-2026
 
@@ -30,9 +31,9 @@ Big idea: AI agents are becoming our users, our buyers and our workforce.
 | 9 | Shift 3, Control: agent observability |
 | 10 | Shift 4, Market: pricing moves to outcomes |
 | 11 | We have been here before |
-| 12 | So what for ING |
-| 13 | Takeaway |
-| 14 | Questions |
+| 12 | Takeaway |
+| 13 | Questions |
+| 14 | Talks worth your time (links) |
 | 15 | QR code to this repo |
 
 ## The four shifts
